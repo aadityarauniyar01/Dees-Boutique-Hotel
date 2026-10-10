@@ -1,0 +1,11 @@
+{
+  "title": "deesboutique",
+  "description": "Experience luxury at Dees Boutique Hotel with a stunning, user-friendly website showcasing rooms, dining, and seamless booking for international guests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
